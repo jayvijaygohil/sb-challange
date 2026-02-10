@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">GitPeek</string>
+    <string name="search_user_idle_message">Enter a GitHub username to search</string>
+    <string name="search_user_hint">Search GitHub username...</string>
+    <string name="user_avatar_content_description">User Avatar</string>
+    <string name="repo_no_description">No Description</string>
+    <string name="error_unknown">Unknown error occurred</string>
+    <string name="error_user_not_found">User not found</string>
+    <string name="error_rate_limit">Rate limit exceeded</string>
+    <string name="error_network">Network error</string>
+    <string name="error_server">Server error: %1$d</string>
+    <string name="error_data_parsing">Data parsing error</string>
+    <string name="navigate_back">Navigate back</string>
+    <string name="stars_label">Stars</string>
+    <string name="watchers_label">Watchers</string>
+    <string name="forks_label">Forks</string>
+    <string name="total_user_fork_count_label">Total User Fork Count</string>
+
 </resources>
